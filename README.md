@@ -1,2 +1,3 @@
 # odin-recipes
 My First TOP project (Foundations)
+February 22, 2024: In doing this project I was able memorzie the html boilerplate. I learned how to add images and links into a page and to format it so the links will open in a new window. I am new to using stock photos, but I have been sure to credit and link each photographer. I practiced how to write alt texts for images and concise git commit messages. At this point, I am unsure about how the formatting should really look, but I'll keep learning and practicing. My plan is to continually build upon this project as I journey through coding.
